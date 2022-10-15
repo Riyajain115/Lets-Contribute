@@ -1,0 +1,20 @@
+h2
+{
+font-size: 50px;
+text-align: center;
+color: rgb(12, 60, 39);
+}
+body{
+    background-color: rgb(192, 213, 188);
+}
+.button1 {
+    background-color: #93bfce;
+    width: 200px;
+    height: 50px;
+} 
+.button2 
+ {
+    background-color: #a47e7b;
+    width: 200px;
+    height: 50px;
+} 
